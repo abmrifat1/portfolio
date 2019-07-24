@@ -1,0 +1,23 @@
+@font-face {
+    src: url(../fonts/GreatVibes-Regular.ttf);
+    font-family: salman;
+}
+
+.para{
+    font-family: salman;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 480px) {
+    [class*='col-'] {
+        width: 100%;
+    }
+}
